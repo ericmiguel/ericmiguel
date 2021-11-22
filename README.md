@@ -2,15 +2,6 @@
 
 Brazilian climate researcher, machine learning enthusiast and developer working on the energy market.
 
-
-<table>
-
-<tr>
-
-
-<td>
-
-
 🚀 I use Python on climate change research  
 ![package-pandas](https://img.shields.io/badge/package-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![package-scipy](https://img.shields.io/badge/package-SciPy-informational?style=flat&logo=SciPy&logoColor=white&color=2bbc8a)
@@ -43,15 +34,3 @@ Brazilian climate researcher, machine learning enthusiast and developer working 
 ![editor](https://img.shields.io/badge/os-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=2bbc8a)
 
   
-</td>
-  
-  
-<td align="center">
-
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmiguel&hide=Jupyter%20Notebook,%20R,Typescript,CSS,Lua,HTML&layout=compact&theme=github_dark&show_icons=true&hide_border=false)
-  
-</td>
-  
-</tr>
-
-</table>
