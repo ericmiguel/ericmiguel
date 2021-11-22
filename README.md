@@ -21,7 +21,7 @@ Brazilian climate researcher, machine learning enthusiast and developer working 
 ![tool-docker](https://img.shields.io/badge/tool-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 ![tool-docker](https://img.shields.io/badge/cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=2bbc8a)
 
-🔭 I'm currently personally interested in  
+🔭 I'm personally interested in  
 ![code-javascript](https://img.shields.io/badge/code-Golang-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
 ![code-mongodb](https://img.shields.io/badge/code-Julia-informational?style=flat&logo=Julia&logoColor=white&color=2bbc8a)
 
