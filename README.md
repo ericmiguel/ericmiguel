@@ -1,6 +1,6 @@
 ### 👋 I'm Eric 
 
-Brazilian climate researcher, machine learning enthusiast and developer working at the energy market.
+Brazilian climate researcher, machine learning enthusiast and developer working on the energy trading market.
 
 🚀 I use Python on climate change research  
 ![package-pandas](https://img.shields.io/badge/package-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
