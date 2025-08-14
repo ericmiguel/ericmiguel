@@ -12,8 +12,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=ericmiguel&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ericmiguel&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmiguel&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ericmiguel&limit=5&hide_border=true&theme=transparent&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
