@@ -1,8 +1,6 @@
 
 # 🤖 About Me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/ericmrib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ericmrib) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@eric.mrib) 
-
 🔭 I’m currently working on<br><br>Architecting data-centric platforms and leading a new development team to tackle challenges in the renewable energy and electricity trading market.<br><br>👯 I’m looking to collaborate on <br><br>Projects at the intersection of climate science, data analysis, and high-performance software engineering. Especially tools for scientific computing and data visualization.<br><br>🤝 I’m looking for help with<br><br>connecting with researchers and engineers working on the challenges of applying LLMs to specialized scientific and industrial domains. I'm particularly interested in model efficiency, cost-effectiveness at scale, and interpretability.<br><br>🌱 I’m currently learning<br><br>how to build end-to-end AI solutions, focusing on LLM fine-tuning, vector databases (e.g., Pinecone, Milvus), and building efficient MLOps pipelines for generative models.<br><br>💬 Ask me about<br><br>Python for data-intensive applications (FastAPI, Pandas, Xarray), building end-to-end data products on AWS, processing meteorological/hydrological data, and making the transition from a scientific background into a tech career.<br><br>⚡ Fun fact<br><br>I can probably tell you more about atmospheric general circulation models than you'd ever want to know.
 
 # 💻 Tech Stack:
